@@ -84,7 +84,8 @@ step3 : when we click on print button it print the deatails of the customer
 step3 : when we click on print button it print the deatails of the customer.
 
  ## ⛏️ Flow Chart
-bg width:1000px
+flow chart of this project
+https://www.researchgate.net/figure/Flow-chart-diagram-Online-e-commerce-shopping-web-app_fig1_347169962
 
 ## Language Required
     ### Html
