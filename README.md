@@ -87,9 +87,9 @@ step3 : when we click on print button it print the deatails of the customer.
 bg width:1000px
 
 ## Language Required
-   Html
-   Css
-   java
+    ### Html
+    ### Css
+    ### java
        using NetBeans Editter
  ## ✍️ Authors
 Pardeep Kumar
