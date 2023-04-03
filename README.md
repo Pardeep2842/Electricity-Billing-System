@@ -92,13 +92,19 @@ https://app.diagrams.net/?title=Copy%20of%20Ebill%20io%20diagram.drawio&client=1
     ### Css
     ### java
        using NetBeans Editter
- ## ✍️ Authors
+ ## ✍️ Author 
 Pardeep Kumar
-See also the list of contributors who participated in this project.
 This project was created by me only
 
 ## 🎉 Acknowledgements
 Search on Google
 Showed videos on Youtube
+
+## Conclusion 
+     The electricity billing system project simplifies the billing process and provides a convenient way for customers to pay their bills. The 
+Project can be implemented by utility companies to reduce errors and provide a reliable billing system for their customers. By automating the 
+billing process, the system will save time and resources, resulting in better customer service and satisfaction.
+
+                              # THANK YOU… 
 
 Footer
