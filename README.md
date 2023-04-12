@@ -86,7 +86,8 @@ step3 : when we click on print button it print the deatails of the customer.
 
  ## ⛏️ Flow Chart
 flow chart of this project
-https://app.diagrams.net/?title=Copy%20of%20Ebill%20io%20diagram.drawio&client=1
+![bg width:1000px](./Ebill1.png)
+
 
 ## Language Required
     ### Html
