@@ -25,8 +25,9 @@ The system will have the following functionality:
 
     GUI Image 
     
+             ![GUI_Image](https://github.com/Pardeep2842/Electricity-Billing-System/blob/main/Ebillimage1.png)
     
-              ![bg width:1000px](./Ebillimage1.png)
+            
 
 
 
