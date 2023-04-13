@@ -221,7 +221,7 @@ First Run the file next we get a GUI for Entering the Customer details, calculat
     Each and Every coders are inspiration to me. 
 - References
 
-    TutusFunny
-    Google
-    Youtube
+    TutusFunny, 
+    Google,
+    Youtube etc.
 
