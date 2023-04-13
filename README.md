@@ -199,7 +199,7 @@ Id, Customer Name Unit, and Amount etc
 
 ## Deployment <a name = "deployment"></a>
 
-First Run the file next we get a GUI for calculate the bills and print.
+First Run the file next we get a GUI for Entering the Customer details, calculate and print the bills.
 
 ![Ebillimage1](https://github.com/Pardeep2842/Electricity-Billing-System/blob/main/Ebillimage1.png)
 
@@ -222,4 +222,6 @@ First Run the file next we get a GUI for calculate the bills and print.
 - References
 
     TutusFunny
+    Google
+    Youtube
 
