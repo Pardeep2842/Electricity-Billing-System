@@ -16,7 +16,7 @@ using java swing in NetBeans IDE.
 ---
 
 <p align="center"> The purpose of the Electricity Billing System is to automate the existing manual system 
-with the help of computerized equipment and fullfledged computer software, fulfilling 
+with the help of computerized equipment and full-fledged computer software, fulfilling 
 their requirements, so that their valuable data/information can be stored for a long period
 with easy access and manipulation of the same. 
 The required software and hardware are easily available and easy to work with. 
