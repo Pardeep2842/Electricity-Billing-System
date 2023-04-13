@@ -23,9 +23,22 @@ These instructions will get you a copy of the project up and running on your loc
 The system will have the following functionality:
 ### Text Field: - In this project there are three main text fields. In first one is Customer Id in which we have to fill Customer Id, in second one is for Customer Name in this we have to fill customer Name and in the third one is for Unit which is consumed by the customer.
 
+    GUI Image -
+              ![bg width:1000px](./EbillGuiImage1.png)
+
+
 ### Cal Button: - Cal button calculate the gross amount of the unit which consumed by the customer and using java code it calculate the total bill amount. In this project for different - different unit range there is different rate of charge according to our given data.
 
+         GUI Image -
+              ![bg width:1000px](./EbillGuiImage2.png)
+
+
 ### Print Button: - In print button it print the all detailed which was shown by the cal button like customer Id, Customer name, Unit, and Amount etc. 
+
+               GUI Image -
+              ![bg width:1000px](./EbillGuiImage3.png)
+
+
 
 ## Prerequisites
 What things you need to install the software and how to install them.
