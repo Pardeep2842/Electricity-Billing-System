@@ -24,6 +24,7 @@ The system will have the following functionality:
 ### Text Field: - In this project there are three main text fields. In first one is Customer Id in which we have to fill Customer Id, in second one is for Customer Name in this we have to fill customer Name and in the third one is for Unit which is consumed by the customer.
 
     GUI Image -
+             https://github.com/Pardeep2842/Electricity-Billing-System/blob/main/EbillGuiImage1.png
               ![bg width:1000px](./EbillGuiImage1.png)
 
 
