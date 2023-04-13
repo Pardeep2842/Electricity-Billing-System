@@ -210,7 +210,7 @@ First Run the file next we get a GUI for calculate the bills and print.
 
 ## ⛏️ Flow Chart <a name = "flowchart"></a>
 
-![Screenshot (13)](https://github.com/Pardeep2842/Electricity-Billing-System/blob/main/Screenshot%20(13).png)
+![Ebillimg3](https://github.com/Pardeep2842/Electricity-Billing-System/blob/main/Ebillimg3.png)
 
 ## ✍️ Author <a name = "author"></a>
 - [@Pardeep-kumar](https://github.com/Pardeep2842/Electricity-Billing-System.git) Pardeep Kumar
