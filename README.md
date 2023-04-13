@@ -26,7 +26,7 @@ The system will have the following functionality:
     GUI Image 
     
     
-              ![bg width:1000px](./EbillGuiImage1.png)
+              ![bg width:1000px](./Ebillimage1.png)
 
 
 
@@ -36,7 +36,7 @@ The system will have the following functionality:
          GUI Image 
          
          
-              ![bg width:1000px](./EbillGuiImage2.png)
+              ![bg width:1000px](./Ebillimage2.png)
 
 
 ### Print Button: - In print button it print the all detailed which was shown by the cal button like customer Id, Customer name, Unit, and Amount etc. 
@@ -45,7 +45,7 @@ The system will have the following functionality:
                
                
                
-              ![bg width:1000px](./EbillGuiImage3.png)
+              ![bg width:1000px](./Ebillimage3.png)
 
 
 
