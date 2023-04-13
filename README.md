@@ -42,6 +42,9 @@ The system will have the following functionality:
 ### Print Button: - In print button it print the all detailed which was shown by the cal button like customer Id, Customer name, Unit, and Amount etc. 
 
                GUI Image 
+
+                         ![bg width:1000px](./Ebill1.png)
+
                
                
                
