@@ -25,7 +25,7 @@ The system will have the following functionality:
 
     GUI Image 
     
-                  ![bg width:1000px](./Ebillimage1.png)
+                  ![Ebillimage1](./Ebillimage1.png)
 
             
 
