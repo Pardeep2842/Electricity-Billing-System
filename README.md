@@ -16,7 +16,7 @@ using java swing in NetBeans IDE.
 ---
 
 <p align="center"> The purpose of the Electricity Billing System is to automate the existing manual system 
-with the help of computerized equipment and full-fledged computer software, fulfilling 
+with the help of computerized equipment and full-fledged computer software, fulfill
 their requirements, so that their valuable data/information can be stored for a long period
 with easy access and manipulation of the same. 
 The required software and hardware are easily available and easy to work with. 
@@ -39,7 +39,7 @@ and fast management system.
 
 ## 🧐 Abstract <a name = "abstract"></a>
 The purpose of Electricity Billing System is to automate the existing manual system by 
-the help of computerized equipments and full-fledged computer software, fulfilling their 
+the help of computerized equipments and full-fledged computer software, fulfill their 
 requirements, so that their valuable data/information can be stored for a longer period 
 with easy accessing and manipulation of the same. 
 
@@ -186,16 +186,16 @@ It has three major features.
 1. Text field:-
 In this project there are three main text field. In first one is Customer Id in which we 
 have to fill Customer Id in second one is for Customer Name in this we have to fill 
-customer Name and in the third one is for Unit which is consumed by the customer
+customer Name and in the third one is for Unit which is consumed by the customer.
 
 2. Cal Button:-
 Cal Button calculate the gross amount of the unit which consumed by the customer and 
-using lava code it calculate the total bill amount. In this project for different- different 
-unit range there is different rate of charge according to our given data
+using java code it calculate the total bill amount. In this project for different- different 
+unit range there is different rate of charges according to our given data.
 
 3. Print Button:-
 In print button it print the all detailed which was shown by the cal button like Customer 
-Id, Customer Name Unit, and Amount etc
+Id, Customer Name Unit, and Amount etc.
 
 ## Deployment <a name = "deployment"></a>
 
