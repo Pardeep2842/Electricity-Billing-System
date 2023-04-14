@@ -172,30 +172,33 @@ public class ebill extends javax.swing.JFrame {
         setLocationRelativeTo(null);
     }// </editor-fold>//GEN-END:initComponents
 
-     String cid;
+    String cid;
         double charge,gramount;
         int count;
         
          public void print(){
-            String CID = txtCID.getText();
-            String cName = txtCName.getText();
-            String unit = txtUnit.getText();
-            
-        txtPrint.setText(txtPrint.getText() + "\n");
-        txtPrint.setText(txtPrint.getText() + " <-- Electricity  Bill  Details -->  " + "\n");
-        txtPrint.setText(txtPrint.getText() + "\n");
-        txtPrint.setText(txtPrint.getText() + "Customer ID :- " +CID+ "\n");
-        txtPrint.setText(txtPrint.getText() + "Customer Name :- "+cName+ "\n");
-        txtPrint.setText(txtPrint.getText() + "Unit :- "+unit+ "\n");
-        txtPrint.setText(txtPrint.getText() + "Amount :- "+gramount+ "\n");
-                txtPrint.setText(txtPrint.getText() + "\n");
-                txtPrint.setText(txtPrint.getText() + "\n");
+           
+            GuiDetails();
+         }
+         
+         
+        public void GuiDetails(){
+          String CID = txtCID.getText();
+          String cName = txtCName.getText();
+          String unit = txtUnit.getText();
+            txtPrint.setText(txtPrint.getText() + "\n");
+            txtPrint.setText(txtPrint.getText() + " <-- Electricity  Bill  Details -->  " + "\n");
+            txtPrint.setText(txtPrint.getText() + "\n");
+            txtPrint.setText(txtPrint.getText() + "Customer ID :- " +CID+ "\n");
+            txtPrint.setText(txtPrint.getText() + "Customer Name :- "+cName+ "\n");
+            txtPrint.setText(txtPrint.getText() + "Unit :- "+unit+ "\n");
+            txtPrint.setText(txtPrint.getText() + "Amount :- "+gramount+ "\n");
+            txtPrint.setText(txtPrint.getText() + "\n");
+            txtPrint.setText(txtPrint.getText() + "\n");
 
-        txtPrint.setText(txtPrint.getText() + "THANK YOU COME AGAIN...  ");
-
-
-        }
-            
+            txtPrint.setText(txtPrint.getText() + "THANK YOU COME AGAIN...  ");
+             }
+    
     private void txtCalActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtCalActionPerformed
         // TODO add your handling code here:
          txtCID.getText();
